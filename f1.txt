@@ -1,5 +1,7 @@
 function(){
 
+	int a=0;
 	return("master,exp");
+
 }
 
